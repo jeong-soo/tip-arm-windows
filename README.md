@@ -56,6 +56,6 @@ Source를 구하더라도 빌드를 해야하는 매우 번거로운 과정이 �
 [Linux용 Windows 하위 시스템 설명서](https://docs.microsoft.com/ko-kr/windows/wsl/)  
 [이전 버전 WSL의 수동 설치 단계](https://docs.microsoft.com/ko-kr/windows/wsl/install-manual)  
 [ARM Windows Linux 커널 업데이트 패키지 다운로드](https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_arm64.msi)  
-
+[WSL2 LTE 인터넷 불가 해결 방법](https://github.com/microsoft/WSL/issues/5613)
 # 2. WSA
 [Windows Subsystem for Android 소개 링크](https://docs.microsoft.com/en-us/windows/android/wsa/)
